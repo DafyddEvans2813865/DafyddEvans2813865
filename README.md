@@ -10,7 +10,15 @@ I like applying what I learn in one area to improve my work in another.
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,java,react,dotnet,azure,docker,mysql&perline=9)](https://skillicons.dev)
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,py,java,react,dotnet,azure,docker,mysql&perline=3" alt="My Skills" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafyddEvans2813865&layout=compact&hide=html,css" alt="Most Used Languages" />
+</p>
+
+
+
 
 ## 🚀 Current Projects
 
