@@ -22,3 +22,8 @@ I like applying what I learn in one area to improve my work in another.
 - 🖥️ **Nand2Tetris:** built a full computer stack from the ground up, from logic gates to a VM translator and Jack compiler *(HDL, C++, Jack)*
 - 🎣 **FiveM Mod Jam:** a Dredge-inspired fishing horror game mode for GTA V, built solo in 10 days *(C#)*
 - 🎧 **Audio Converter:** a free tool that converts MP3 files to M4B audiobooks, so you can use chapters and adjust playback speed in book players *(Python)*
+
+## 🐍 Contributions
+
+![Snake animation](https://raw.githubusercontent.com/DafyddEvans2813865/DafyddEvans2813865/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/DafyddEvans2813865/DafyddEvans2813865/output/github-snake.svg#gh-light-mode-only)
