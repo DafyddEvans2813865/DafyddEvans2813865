@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.icons8.com/ios-filled/100/F2C46D/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/dafydd-evans-62b37931a/"><img src="https://img.icons8.com/ios-filled/100/F2C46D/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
 </p>
 
 ## 👋 About Me
