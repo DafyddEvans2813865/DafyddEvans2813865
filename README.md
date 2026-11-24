@@ -17,7 +17,7 @@ I enjoy working across the stack, from low-level systems like compilers and VMs 
 I like applying what I learn in one area to improve my work in another.
 
 - 🎓 James Watt School of Engineering Excellence List, 2026
-- 🗣️ Speaks Welsh and English
+- 🗣️ Speak Welsh and English
 - 📫 Open to graduate software roles for 2027
 
 ## 🛠️ Tech Stack
